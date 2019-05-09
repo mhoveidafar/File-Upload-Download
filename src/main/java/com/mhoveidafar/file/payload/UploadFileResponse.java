@@ -1,4 +1,4 @@
-package com.mhoveidafar.file.entity;
+package com.mhoveidafar.file.payload;
 
 public class UploadFileResponse {
 	private String fileName;

@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.mhoveidafar.file.entity.UploadFileResponse;
+import com.mhoveidafar.file.payload.UploadFileResponse;
 import com.mhoveidafar.file.service.FileStorageService;
 
 @RestController
